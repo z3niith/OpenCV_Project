@@ -6,6 +6,8 @@ This is open source; fork it, and tweak it to your liking.
 
 This tool downloads `.jpeg` frames listed in a `.m3u8` file and turns them into a video (MP4, WebM, or GIF).
 
+`Note:` This is only for .M3U8 files that use pictures in the "network" section. 
+
 ## Features
 
 - GUI prompt (via `tkinter`)
