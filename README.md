@@ -1,4 +1,8 @@
-# OpenCV_Project
+# .M3U8 Downloader and Converter
+
+I created this because I was annoyed that their are no others that I could easily find out their. 
+
+This is open source; fork it, and tweak it to your liking.
 
 This tool downloads `.jpeg` frames listed in a `.m3u8` file and turns them into a video (MP4, WebM, or GIF).
 
