@@ -1,4 +1,6 @@
 # .M3U8 Downloader and Converter
+Check "Mac" branch for mac
+For Linux (Arch):
 
 I created this because I was annoyed that their are no others that I could easily find out their. 
 
