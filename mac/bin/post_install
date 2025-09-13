@@ -1,0 +1,7 @@
+#!/Users/elengegermain/M3U8-Downloader-and-Converter/mac/bin/python3
+import sys
+from PySimpleGUI import main
+if __name__ == '__main__':
+    if sys.argv[0].endswith('.exe'):
+        sys.argv[0] = sys.argv[0][:-4]
+    sys.exit(main())
